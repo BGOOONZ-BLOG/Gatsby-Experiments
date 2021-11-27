@@ -5,5 +5,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://bgoonz-blog.netlify.app/sitemap.xml
-
-
