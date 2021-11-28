@@ -124,7 +124,7 @@
                 "new_window": true
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Admin",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
