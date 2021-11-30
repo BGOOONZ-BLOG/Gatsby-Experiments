@@ -111,9 +111,27 @@
                         "new_window": false,
                         "no_follow": false,
                         "type": "action"
+                    },
+                    {
+                        "label": "lorem-ipsum",
+                        "url": "#",
+                        "style": "link",
+                        "icon_class": "dev",
+                        "new_window": false,
+                        "no_follow": false
                     }
                 ],
                 "new_window": true
+            },
+            {
+                "label": "Admin",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "has_subnav": false,
+                "subnav_links": []
             },
             {
                 "label": "Job Search",
@@ -356,6 +374,14 @@
                         "label": "github-stats-website",
                         "url": "https://bgoonz.github.io/github-stats-website/",
                         "style": "primary",
+                        "icon_class": "dev",
+                        "new_window": false,
+                        "no_follow": false
+                    },
+                    {
+                        "label": "lorem-ipsum",
+                        "url": "#",
+                        "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
                         "no_follow": false
